@@ -1,0 +1,6 @@
+framework module Pods_FirestoneStarterTests {
+  umbrella header "Pods-FirestoneStarterTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
